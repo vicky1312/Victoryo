@@ -65,6 +65,9 @@ main{
         width: 30rem;
         position: relative; left: 0%;
         margin-top: -10em;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
     }
 }
 .text{
