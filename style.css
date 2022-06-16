@@ -13,11 +13,11 @@ main{
     text-align: center;
 }
 .header{
-    display: block;
-    position:  relative; left:27%;
-    align-items: center;
+    display: flex;
     text-align: center;
     justify-content: center;
+    align-items: center;
+    position:  relative; left:27%;
     margin-bottom: 45em;
     border: 1px;
     background-color: hsl(248, 32%, 49%);
